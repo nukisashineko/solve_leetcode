@@ -1,7 +1,8 @@
 # https://leetcode.com/problems/reverse-integer/
+
 # https://leetcode.com/submissions/detail/217778025/
-# Runtime: 40 ms
-# Memory Usage: 9.6 MB
+# Runtime: 40 ms, faster than 100.00% of Ruby online submissions for Reverse Integer.
+# Memory Usage: 9.6 MB, less than 34.61% of Ruby online submissions for Reverse Integer.
 
 
 # @param {Integer} x

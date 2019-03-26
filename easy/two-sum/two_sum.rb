@@ -1,5 +1,8 @@
 # https://leetcode.com/problems/two-sum/
+
 # https://leetcode.com/submissions/detail/217771848/
+# Runtime: 44 ms, faster than 83.78% of Ruby online submissions for Two Sum.
+# Memory Usage: 10.9 MB, less than 5.16% of Ruby online submissions for Two Sum.
 
 # @param {Integer[]} nums
 # @param {Integer} target

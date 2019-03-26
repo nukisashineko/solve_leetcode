@@ -1,7 +1,9 @@
 # https://leetcode.com/problems/unique-morse-code-words
+
 # https://leetcode.com/submissions/detail/217787079/
-# Runtime: 44 ms
-# Memory Usage: 9.7 MB
+# Runtime: 44 ms, faster than 81.30% of Ruby online submissions for Unique Morse Code Words.
+# Memory Usage: 9.7 MB, less than 50.00% of Ruby online submissions for Unique Morse Code Words.
+
 
 # @param {String[]} words
 # @return {Integer}

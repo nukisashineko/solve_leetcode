@@ -1,8 +1,8 @@
 # https://leetcode.com/problems/jewels-and-stones/
-# https://leetcode.com/submissions/detail/217781550/
-# Runtime: 56 ms
-# Memory Usage: 9.5 MB
 
+# https://leetcode.com/submissions/detail/217781550/
+# Runtime: 40 ms, faster than 90.54% of Ruby online submissions for Jewels and Stones.
+# Memory Usage: 9.6 MB, less than 36.74% of Ruby online submissions for Jewels and Stones.
 
 # @param {String} j
 # @param {String} s
